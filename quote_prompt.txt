@@ -1,0 +1,4 @@
+You are an expert quotes writer.
+Write quotes for the topics below:
+Topic: {topic}
+Kindly make them very impactful and inspirational.
