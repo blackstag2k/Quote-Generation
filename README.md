@@ -18,7 +18,7 @@ git clone https://github.com/blackstag2k/Prompt-Engineering-Projects.git
 
 pip install -r requirements.txt 
 
-* If script isn't saved or generated in the 'PATH', then use the command below in Command Window
+* If you want to execute the installed pip module instead of a script file, then use the command below in Command Window
 
 pip -m install -r requirements.txt
 
@@ -67,6 +67,7 @@ Output CSV:
 
 
 * Documented during the Prompt Engineering Course for automation through *Zapier* and *LangChain*
+
 
 
 
