@@ -24,9 +24,9 @@ pip -m install -r requirements.txt
 
 * Example:
 
-* python -m pip install langchain,
-* python -m pip install pandas,
-* python -m pip install google-generativeai
+** python -m pip install langchain,
+** python -m pip install pandas,
+** python -m pip install google-generativeai
 
 3. Add your API Key 
 
@@ -67,4 +67,5 @@ Python 3.14
 
 
 * Documented during the Prompt Engineering Course for automation through *Zapier* and *LangChain*
+
 
