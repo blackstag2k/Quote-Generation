@@ -24,9 +24,9 @@ pip -m install -r requirements.txt
 
 * Example:
 
-pip -m install langchain
-pip -m install pandas
-pip -m install google-generativeai
+python -m pip install langchain,
+python -m pip install pandas,
+python -m pip install google-generativeai
 
 3. Add your API Key 
 
@@ -64,5 +64,6 @@ Python 3.14
 - Connecting LangChain template prompt to Google Gen AI through API key
 - Using the Pandas DataFrame as a worksheet to save the particulars of the prompt
 - Executing the code through a virtual environment (.venv) like VS Code.
+
 
 * Documented during the Prompt Engineering Course for automation through *Zapier* and *LangChain*
