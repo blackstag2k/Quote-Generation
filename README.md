@@ -4,7 +4,21 @@ This project is about generating quotes from topics in a CSV file using **LangCh
 
 ## Workflow
 
-CSV - Prompt Template for LangChain - Google GenAI - Output in the CSV
+```mermaid
+flowchart TD
+
+A[Start]
+A --> B[Load CSV]
+
+B --> C[Read Prompt Template]
+C --> D[Generate Response using LangChain + Google GenAI]
+
+D --> E[Format Output]
+E --> F[Write to CSV]
+
+F --> G[Save Results]
+G --> H[End]
+```
 
 ## Steps to Run the Code
 
@@ -67,6 +81,7 @@ Output CSV:
 
 
 * Documented during the Prompt Engineering Course for automation through *Zapier* and *LangChain*
+
 
 
 
